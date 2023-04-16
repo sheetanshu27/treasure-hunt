@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.inner-container-level31{
+    background: url("../images/level3bg.jpg");
+    /* position: absolute; */
+    top: 0;
+    margin: 0;
+    padding: 2%;
+    height: 100%;
+    width: 100%;
+    
+}
+.inner-container-level31 h3, h4{
+    padding: 0.5%;
+    margin: 0.3%;
+    background-color: rgba(0, 0, 0, 0.393);
+    color: aliceblue;
+    border-radius: 1rem;
+}
+.container-level31{
+    background-color: rgba(0, 0, 0, 0.632);
+    display: flex;
+    flex-direction: column;
+    height: 120vh;
+}
+.cards-level31{
+    display:flex ;
+    margin: 2%;
+    padding: 1%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+.answer{
+    background-color: rgba(240, 248, 255, 0.194);
+    /* position: absolute; */
+    /* top: 10;
+    right: 0; */
+    padding: 3%;
+    width: 100%;
+    border-radius: 0.5rem;
+    opacity: 0.3;
+}
+.hint{
+    color: aliceblue;
+}
