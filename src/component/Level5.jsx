@@ -29,7 +29,7 @@ const Level5=()=>{
               <h3>Welcome to the final destination..</h3>
                <h4>Decrypt the code to go to your dream land after uniting all the codes (Uni-code) you got so far</h4>
                <div className='content'>
-                <p><Link to='https://drive.google.com/file/d/1kVAJX2d4PMOjDCXs5NtRszGq9PUwgKnp/view?usp=share_link'>https://drive.google.com/file/d/1kVAJX2d4PMOjDCXs5NtRszGq9PUwgKnp/view?usp=share_link</Link></p>
+                <p><Link to='https://drive.google.com/file/d/1kVAJX2d4PMOjDCXs5NtRszGq9PUwgKnp/view?usp=share_link' target="_blank">https://drive.google.com/file/d/1kVAJX2d4PMOjDCXs5NtRszGq9PUwgKnp/view?usp=share_link</Link></p>
                 <div className='answer2'>
                   <form onSubmit={onSubmit}>
                       <center><input type="text"

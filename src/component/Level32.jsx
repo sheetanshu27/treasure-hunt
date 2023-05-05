@@ -50,7 +50,7 @@ const Level32 = ()=>{
                   image={Door1}
                   message="Wrong lock"
                   title=""
-                  content={<Link to="https://drive.google.com/file/d/1UJZT1HNSEdCfZ3g1RDP8u1tpx67aaWNQ/view?usp=share_link">Download Image</Link>}/>
+                  content={<Link to="https://drive.google.com/file/d/1UJZT1HNSEdCfZ3g1RDP8u1tpx67aaWNQ/view?usp=share_link" target="_blank">Download Image</Link>}/>
                   </div>
                   <div className='cd'>
                   <Card ans="fshfjsdlfjsdll"
@@ -58,7 +58,7 @@ const Level32 = ()=>{
                   message="Wrong lock"
                   image={Door1}
                   title=""
-                  content={<Link to="https://drive.google.com/file/d/1YCUKJlyBr7s8qixnECmilSsGBednSj_f/view?usp=share_link">Download Image</Link>} />
+                  content={<Link to="https://drive.google.com/file/d/1YCUKJlyBr7s8qixnECmilSsGBednSj_f/view?usp=share_link" target="_blank">Download Image</Link>} />
                   </div>
                   
             </div>

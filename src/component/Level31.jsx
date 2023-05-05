@@ -50,7 +50,7 @@ const Level31 = ()=>{
                   image={Door1}
                   message="Wrong lock"
                   title=""
-                  content={<Link to="https://drive.google.com/file/d/1OaamcLnVjY3UKvPNefnfo9CeHwxCTSCg/view?usp=share_link">Download Image</Link>}/>
+                  content={<Link to="https://drive.google.com/file/d/1OaamcLnVjY3UKvPNefnfo9CeHwxCTSCg/view?usp=share_link" target="_blank">Download Image</Link>}/>
                   </div>
                   <div className='cd'>
                   <Card ans="fshfjsdlfjsdll"
@@ -58,7 +58,7 @@ const Level31 = ()=>{
                   message="Wrong lock"
                   image={Door1}
                   title=""
-                  content={<Link to="https://drive.google.com/file/d/19zCysPFqLpX06qoPg_4WGZ6LLwjA08Tz/view?usp=share_link">Download Image</Link>} />
+                  content={<Link to="https://drive.google.com/file/d/19zCysPFqLpX06qoPg_4WGZ6LLwjA08Tz/view?usp=share_link" target="_blank">Download Image</Link>} />
                   </div>
                   
             </div>

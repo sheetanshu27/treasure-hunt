@@ -47,7 +47,7 @@ import { Link , useNavigate} from 'react-router-dom';
                     <tr>
                         <td><Link to="/error"><img src={ist1}/></Link></td>
                         <td><Link to="/error"><img src={ist2}/></Link></td>
-                        <td><Link to="https://www.instagram.com/p/Co96W-2rxhb/?igshid=YmMyMTA2M2Y="><img src={ist3}/></Link></td>
+                        <td><Link to="https://www.instagram.com/p/Co96W-2rxhb/?igshid=YmMyMTA2M2Y=" target="_blank"><img src={ist3}/></Link></td>
                     </tr>
                     <tr>
                         <td><Link to="/error"><img src={ist4}/></Link></td>
@@ -67,7 +67,7 @@ import { Link , useNavigate} from 'react-router-dom';
                    <p>{result1}</p>
             </div>
             <div className='key-image'>
-      <Link to="https://drive.google.com/file/d/12goSa9c6P05C29PrmJnxwSfQP_9WlEbK/view?usp=share_link"><img src={music}/></Link>
+      <Link to="https://drive.google.com/file/d/12goSa9c6P05C29PrmJnxwSfQP_9WlEbK/view?usp=share_link" target="_blank"><img src={music}/></Link>
             </div>
       </div>
       
