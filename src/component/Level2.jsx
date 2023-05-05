@@ -18,7 +18,7 @@ const Level2 =()=>{
                   <p>Follow the given clue to choose the correct tile for the next destination..</p>
                   <p>Sometimes you need to find the hidden meaning of the text.</p>
                   <p>Hint: The answer to your door is a 6 digit code.</p>
-                  <center><p><Link to="https://drive.google.com/file/d/1DxbvDq5jgm-_5ZpTus99zdnwUEav842X/view?usp=share_link">https://drive.google.com/file/d/1DxbvDq5jgm-_5ZpTus99zdnwUEav842X/view?usp=share_link</Link></p></center>
+                  <center><p><Link to="https://drive.google.com/file/d/1DxbvDq5jgm-_5ZpTus99zdnwUEav842X/view?usp=share_link" target="_blank">https://drive.google.com/file/d/1DxbvDq5jgm-_5ZpTus99zdnwUEav842X/view?usp=share_link</Link></p></center>
                   
             </div>
             <div className='cards'>
