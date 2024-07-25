@@ -29,11 +29,11 @@ const Welcome =()=>{
             if(email=="admin@gmail.com" && password=="1234"){
                 alert("Login sucessfully");
                 navigate('/start')
-            }else if(email=="vaish0609@gmail.com" && password=="1234"){
+            }else if(email=="savs2792@gmail.com" && password=="1234"){
                 alert("Login sucessfully");
                 navigate('/start')
             }else{
-                alert("Wrong credentials")
+                alert("Wrong credentials") 
             }
           
         }

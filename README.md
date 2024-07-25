@@ -1,5 +1,5 @@
 <h2>Introduction</h2>
-<p>Hi. I am Vaishnavi Porwal from Madan Mohan Malaviya University of Technology, Gorakhpur, I have created an online Treasure Hunt game(Chasing The Country) on MERN Stack.</p>
+<p>Hi. I am sheetanshu porwal from Galgotias college of Engneering and TECHNOLOGY, I have created an online Treasure Hunt game(Chasing The Country) on MERN Stack.</p>
 Chasing The Country Treasure Hunt is an online Puzzle type Game where you need to reach the final destination using the clues in th paths.
 This Game has a central theme of <b>India's great heritage, culture and history of Cities</b>. Every clue in this game resvolves around this theme only.
 This game has clues hidden in a very creative way. Various type of encoding has been used here-
@@ -52,3 +52,5 @@ The game has very visual hints and clues apart from the main key to help the pla
 <p>This level will helps you to know what is text encoding.</p>
 <h6>Key</h6>: Rishikesh <br>
 <h6>Hint</h6>: Go to the link given there you will get a text file where the code has been given. You have to decrypt that code using Unicode decoder.<br>
+# treasure-hunt
+# treasure-hunt
